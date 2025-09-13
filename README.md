@@ -116,20 +116,31 @@ Open terminal and try execute some kali linux commands
 <img width="1919" height="958" alt="Screenshot 2025-09-08 083345" src="https://github.com/user-attachments/assets/b9f4b8d7-ea25-4436-8b63-e90ac50b4e63" />
 
 # INURL:
+
 <img width="1914" height="952" alt="Screenshot 2025-09-08 084325" src="https://github.com/user-attachments/assets/b7696373-8bae-4d15-be10-cf40d92db1a7" />
+
 # INTITLE:
+
 <img width="1915" height="915" alt="Screenshot 2025-09-08 084353" src="https://github.com/user-attachments/assets/8ec03edf-9563-4929-a82b-f3c300d8c7d8" />
+
 # FILETYPE:
+
 <img width="1918" height="972" alt="Screenshot 2025-09-08 084432" src="https://github.com/user-attachments/assets/878af451-9ae1-4d2a-8d09-73ae4f48ebbe" />
+
 # INTEXT:
+
 <img width="1916" height="976" alt="Screenshot 2025-09-08 084758" src="https://github.com/user-attachments/assets/f49fc76a-b171-4adb-8e21-431da64dd037" />
+
 # LINK:
+
 <img width="1903" height="955" alt="Screenshot 2025-09-08 084829" src="https://github.com/user-attachments/assets/c8c4a7b7-5e6d-4c93-87a3-0d5697718ea1" />
 
 # CACHE:
+
 <img width="1918" height="970" alt="Screenshot 2025-09-08 084904" src="https://github.com/user-attachments/assets/f04414be-0c55-47c4-bf92-67ce0dbccb5c" />
 
 # EXT:
+
 <img width="1919" height="932" alt="Screenshot 2025-09-08 084941" src="https://github.com/user-attachments/assets/9819ac0c-3649-492c-8769-4e64d7180514" />
 
 # DNS Enumeration
@@ -137,6 +148,7 @@ Open terminal and try execute some kali linux commands
 <img width="586" height="661" alt="Screenshot 2025-09-13 083325" src="https://github.com/user-attachments/assets/8f7b8010-0975-43d1-a18e-5996a21f0f97" />
 
 ## DNS Recon
+
 <img width="382" height="371" alt="Screenshot 2025-09-13 083449" src="https://github.com/user-attachments/assets/364d4931-b682-4e14-8de6-64cd86566469" />
 
 # dns recon
